@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Braveschooling with Julie Bogart"
-start: "09:00"
-end: "16:00"
+start: "09:00 AM"
+end: "05:00 PM"
 venue: "California Islamic University"
 address: "598 S. State College, Fullerton, California, 92831"
 expired: false
